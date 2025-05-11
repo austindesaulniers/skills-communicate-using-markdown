@@ -6,3 +6,6 @@
 $ git branch newMD
 Created new branch in Git repository Users/austi/skills-communicate-using-markdown
 ```
+- [ ] Finish HW6
+- [ ] Finish Git Aliases EC
+- [ ] Reinstall VM to Finish Docker HW
